@@ -1,0 +1,2 @@
+# Bike_Sharing_Dataset
+ The Bike Sharing dataset from the UCI Machine Learning repository is used here. The important concepts, assumptions, and types of regression analysis techniques are discussed. It is equipped with a better understanding of dataset and regression itself, we will start off with a simple algorithm called linear regression and graduate to decision tree based regression model to improve on the performance of linear regression.
